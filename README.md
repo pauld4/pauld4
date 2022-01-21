@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul @pauld4
 - 👀 I’m interested in Java, C++, and Javascript
-- 🌱 I’m currently learning Java and MongoDB
+- 🌱 I’m currently learning JavaScript and MongoDB
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 Contact me here or on my LinkedIn
 
